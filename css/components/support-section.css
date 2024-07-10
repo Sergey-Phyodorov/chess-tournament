@@ -1,0 +1,23 @@
+.support-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.support-section h2, .support-section h3 {
+    color: var(--primary-color);
+}
+
+.chess-session {
+    margin-top: 20px;
+}
+
+.chess-session table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.chess-session td {
+    padding: 10px;
+    border: 1px solid var(--secondary-color);
+}

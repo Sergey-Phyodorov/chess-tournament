@@ -1,0 +1,29 @@
+.participants-section {
+    padding: 20px;
+}
+
+.participants-section h2 {
+    text-align: center;
+}
+
+.participants {
+    display: flex;
+    justify-content: space-around;
+}
+
+.participant {
+    background-color: var(--secondary-color);
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    text-align: center;
+    color: var(--button-text-color);
+}
+
+.participant .avatar {
+    background-color: var(--text-color);
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
